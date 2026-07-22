@@ -42,24 +42,6 @@ Na **Zapper**, meu trabalho tem se concentrado em Kubernetes e GitOps, observabi
 - Reforcei workloads internos com segredos selados, políticas de rede, SSO, TLS e acesso restrito por VPN.
 - Automatizei monitoramento, inventário de infraestrutura e rotinas de diagnóstico, incluindo um autohealer com validações e limites de segurança.
 
-## Projetos pessoais
-
-### FiscalScan `privado`
-
-Backend em **Go, Echo e PostgreSQL** que captura NFC-e, organiza compras e preços, gerencia orçamento, estoque e lista de compras, e usa Gemini opcionalmente para classificação. Possui migrations, testes, CI, Docker e infraestrutura em Terraform.
-
-### Gastos App `privado`
-
-Aplicação de finanças pessoais em **Next.js, React e SQLite**, com despesas, receitas, parcelas, recorrências, investimentos, orçamentos, exportação CSV e integração com o FiscalScan.
-
-### [Dragon VoIP](https://github.com/XMATHEUSX/dragon_voip)
-
-Experimento público de comunicação de voz e vídeo com **Python, SIP, WebRTC e WebSockets**.
-
-### [ESP-32 Chassi 4WD](https://github.com/XMATHEUSX/ESP-32-Chassi-4WD-Wireless)
-
-Projeto de robótica: carrinho 4WD controlado por Bluetooth com **ESP32, Arduino e C++**.
-
 ## Stack principal
 
 <p>
